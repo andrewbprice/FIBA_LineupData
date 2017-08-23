@@ -12,7 +12,7 @@ Game URL<br>
 (example: http://www.fiba.basketball/asiacup/2017/0908/China-Philippines)<br>
 <br>
 Team/Country Trigram<br>
-(example: CHN | PHI )<br>
+(example: CHN | PHI )
 <br><br>
 # Requirements
 <br><br>
