@@ -15,7 +15,7 @@ Team/Country Trigram
 
 # Requirements
 
-Python 3 | 
+Python 3<br>
 BeautifulSoup
 
 # To Do
