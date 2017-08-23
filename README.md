@@ -1,11 +1,8 @@
 # FIBA_LineupData
 
 Creates lineup data from the FIBA website Play by Play<br>
-<br>
 This script extracts play by play from the FIBA website using BeautifulSoup and creates a csv file containing lineups for each event in the PBP.<br>
-<br>
 This should work for any of the national team tournaments on the FIBA website.<br>
-<br>
 # Variables:
 Game URL<br>
 (example: http://www.fiba.basketball/asiacup/2017/0908/China-Philippines)<br>
